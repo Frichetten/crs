@@ -1,0 +1,16 @@
+{
+    "AWS_ENDPOINT_TEMPLATES": [
+        "{service}.{region}.amazonaws.com",
+        "{service}.amazonaws.com",
+        "{service}.{region}.on.aws",
+        "{service}.on.aws",
+        "{region}.{service}.aws.a2z.com",
+        "{service}.aws.a2z.com",
+        "{service}.{region}.aws.a2z.com",
+        "{region}.{service}.aws.dev",
+        "{service}.{region}.api.aws",
+        "{service}.api.aws",
+        "{stage}.{region}.{service}.aws.a2z.com",
+        "{stage}.{service}.aws.a2z.com"
+    ]
+}
